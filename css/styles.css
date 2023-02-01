@@ -1,0 +1,44 @@
+body{
+    margin-top: 0;  
+    margin-left: 0; 
+}
+.first-row{
+    position: relative;
+    background-color: #B9F3FC;
+    height: 680px;
+}
+.first-cloud{
+    width: 190px;
+    height: 190px;
+    position: absolute;
+    left: 220px;
+    top: 231px;
+}
+.second-cloud{
+    width: 190px;
+    height: 190px;
+    position: absolute;
+    top: 138px;
+    left: 1019px;
+}
+.mountain-image{
+    width: 415px;
+    height: 415px;
+    position: absolute;
+    left: 500px;
+    bottom: 0px;
+}
+.himyself{
+    font-family: serif;
+    font-size: 70px;
+    position: absolute;
+    left: 566px;
+}
+.myname{
+
+    position: absolute;
+    top: 115px;
+    left: 621px;
+    font-size: 33px;
+    font-family: 'Handlee', cursive;
+}
