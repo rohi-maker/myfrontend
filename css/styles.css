@@ -1,10 +1,56 @@
+a{
+    font-family: 'Handlee', cursive;
+    font-size: 32px;
+    color: #13005A;
+    text-decoration: none;
+}
+
+.about-me{
+    margin-top: 0;
+    font-family: serif;
+    position: absolute;
+    top: 67px;
+    left: 525px;
+}
+.about-paragraph{
+    margin-top: 0;
+    position: absolute;
+    left: 520px;
+    top: 125px;
+    font-size: 30px;
+    color: darkslategray;
+    line-height: 67px;
+    font-family: 'Handlee', cursive;
+}
 body{
     margin-top: 0;  
     margin-left: 0; 
 }
+.channel-name{
+    position: absolute;
+    top: 562px;
+    left: 208px;
+}
+.codechef-logo{
+    width: 248px;
+    height: 202px;
+    position: absolute;
+    top: 475px;
+    left: 522px;
+}
+.codechef-profile{
+    position: absolute;
+    left: 779px;
+    top: 563px;
+}
 .first-row{
     position: relative;
     background-color: #B9F3FC;
+    height: 680px;
+}
+.second-row{
+    position: relative;
+    background-color: #F9F5E7;
     height: 680px;
 }
 .first-cloud{
@@ -13,6 +59,18 @@ body{
     position: absolute;
     left: 220px;
     top: 231px;
+}
+
+.linkdin-logo{
+    width: 87px;
+    position: absolute;
+    top: 533px;
+    left: 985px;
+}
+.linkdin-profile{
+    position: absolute;
+    top: 562px;
+    left: 1093px;
 }
 .second-cloud{
     width: 190px;
@@ -35,10 +93,24 @@ body{
     left: 566px;
 }
 .myname{
-
+    margin-top: 17px;
     position: absolute;
     top: 115px;
     left: 621px;
     font-size: 33px;
     font-family: 'Handlee', cursive;
+}
+.personal-image{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    position: absolute;
+    top: 106px;
+    left: 78px;
+}
+.youtube-logo{
+    width: 100px;
+    position: absolute;
+    left: 89px;
+    top: 534px;
 }
